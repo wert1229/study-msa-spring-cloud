@@ -32,4 +32,11 @@
 * 설정 관리
     * Services -> Config Server -> Git
 
+* Feign
+    * Service들 간의 통신을 도와주는 라이브러리
 
+* Ribbon
+    * 인스턴스 간 로드밸런싱
+
+* Eureka Naming Server 
+    * Service Registration & Service discovery
