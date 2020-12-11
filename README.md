@@ -40,3 +40,17 @@
 
 * Eureka Naming Server 
     * Service Registration & Service discovery
+
+* API Gateway (Zuul)
+    * Auth and Security
+    * Rate Limits
+    * Fault Toleration
+    * Service Aggregation
+
+* Spring Cloud Sleuth & Zipkin & RabbitMq
+    * Sleuth : Give unique id to request across different component
+    * Zipkin : Distributed Tracing Server
+    * RabbitMq : Send logs from services to Zipkin
+
+* Hystrix
+    * Fault Toleration
